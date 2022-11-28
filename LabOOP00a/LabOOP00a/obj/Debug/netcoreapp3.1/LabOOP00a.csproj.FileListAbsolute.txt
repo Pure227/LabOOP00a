@@ -1,0 +1,13 @@
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\bin\Debug\netcoreapp3.1\LabOOP00a.exe
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\bin\Debug\netcoreapp3.1\LabOOP00a.deps.json
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\bin\Debug\netcoreapp3.1\LabOOP00a.runtimeconfig.json
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\bin\Debug\netcoreapp3.1\LabOOP00a.runtimeconfig.dev.json
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\bin\Debug\netcoreapp3.1\LabOOP00a.dll
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\bin\Debug\netcoreapp3.1\LabOOP00a.pdb
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\obj\Debug\netcoreapp3.1\LabOOP00a.csprojAssemblyReference.cache
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\obj\Debug\netcoreapp3.1\LabOOP00a.AssemblyInfoInputs.cache
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\obj\Debug\netcoreapp3.1\LabOOP00a.AssemblyInfo.cs
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\obj\Debug\netcoreapp3.1\LabOOP00a.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\obj\Debug\netcoreapp3.1\LabOOP00a.dll
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\obj\Debug\netcoreapp3.1\LabOOP00a.pdb
+C:\Users\ADmin\Documents\GitHub\LabOOP00a\LabOOP00a\LabOOP00a\obj\Debug\netcoreapp3.1\LabOOP00a.genruntimeconfig.cache
