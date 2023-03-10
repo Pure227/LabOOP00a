@@ -1,0 +1,15 @@
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\bin\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.exe
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\bin\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.deps.json
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\bin\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.runtimeconfig.json
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\bin\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.dll
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\bin\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.pdb
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.csproj.AssemblyReference.cache
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.AssemblyInfoInputs.cache
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.AssemblyInfo.cs
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.csproj.CoreCompileInputs.cache
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.dll
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\refint\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.dll
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.pdb
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.genruntimeconfig.cache
+C:\Users\Arun\Documents\GitHub\LabOOP00a\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน\obj\Debug\net6.0\ref\ค่าเฉลี่ยน้ำหนักของเพื่อน 5 คน.dll
